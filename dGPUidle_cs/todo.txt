@@ -1,0 +1,4 @@
+x- and use factory.adapters to get the GPU you need instead of default.
+- see if you can remove dependency on dlls
+- window.show to not show.
+- try public override of run() or change run() code
