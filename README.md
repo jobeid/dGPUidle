@@ -4,3 +4,9 @@ Keeps dGPU running but idle. Prevents microstutter with nVidia optimus gpu switc
 Download rar  
 Extract into single folder  
 Run manually after windows log in
+
+The app will briefly show a DX12 window then hide it into the background. To stop the application, run the .exe again and click "No" when prompted to continue running.
+
+The code is based on sample code from https://github.com/discosultan/dx12-game-programming
+
+Please feel free to improve on it.
