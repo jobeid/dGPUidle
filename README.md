@@ -11,6 +11,4 @@ The code is based on sample code from https://github.com/discosultan/dx12-game-p
 
 Please feel free to improve on it.
 
-UPDATE: dGPU switch microstutters has been completely fixed in Windows 10 Creators Update build 15042 (Currently only available via windows insiders program). So if you have build 15042 or later you should not need dGPUidle.
-
-UPDATE 2: dGPUidle fails on newer versions of Windows 10. Try: https://github.com/jobeid/TrayPwrD3
+UPDATE: dGPUidle fails on newer versions of Windows 10 (since Creators Update). Try [TrayPwrD3](https://github.com/jobeid/TrayPwrD3) instead 
