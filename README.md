@@ -11,4 +11,4 @@ The code is based on sample code from https://github.com/discosultan/dx12-game-p
 
 Please feel free to improve on it.
 
-UPDATE: dGPUidle fails on newer versions of Windows 10 (since Creators Update). Try [TrayPwrD3](https://github.com/jobeid/TrayPwrD3) instead 
+UPDATE: dGPUidle fails on newer versions of Windows 10 (since Creators Update). Try [TrayPwrD3](https://github.com/jobeid/TrayPwrD3) instead.
